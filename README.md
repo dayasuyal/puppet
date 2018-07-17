@@ -1,0 +1,2 @@
+# puppet
+Examples for Puppet
